@@ -96,7 +96,7 @@ const styles = {
       pl: [0, null, '40px'],
       mb: [-2, null],
       img: {
-        height: [360, 'auto'
+        height: [360, 'auto'],
       },
     },
   },
