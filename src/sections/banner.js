@@ -90,13 +90,13 @@ const styles = {
       },
     },
     imageBox: {
-      justifyContent: 'left',
+      justifyContent: 'center',
       textAlign: ['center', null, null, null, 'right'],
       mr: [0, null, null, null, null, null, -6, -7],
       pl: [0, null, '40px'],
       mb: [-2, null],
       img: {
-        height: [360, 'auto'],
+        height: [360, 'auto'
       },
     },
   },
